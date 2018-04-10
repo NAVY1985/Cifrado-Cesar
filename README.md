@@ -15,4 +15,4 @@ CREAR UNA WEB QUE PIDA POR MEDIO DE UN PROMPT UNA FRASE Y DEVUELVA EL MESAJE ENC
 
  # DIAGRAMA DE FLUJO
 
-![Diagrama de flujo](assets/image/CifradoCesar.png)
+![Diagrama de flujo](assets/image/diagramacesar.png)
